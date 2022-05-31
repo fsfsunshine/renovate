@@ -1,0 +1,10 @@
+{
+  "renovate": {
+    "config": {
+      "dryRun": false,
+      "autodiscover": true,
+      "endpoint": "https://github.com/api/v4/",
+      "platform": "gitlab"
+    }
+  }
+}
